@@ -10,7 +10,7 @@ Currently Learning
 Python basics
 Java Basics
 Version control with Git and GitHub
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning React
 - 💞️  I'm looking to start collaboration on some projects
 - 📫 How to reach me https://www.linkedin.com/in/eduardo-gabriel-bambace-18335a184, https://www.facebook.com/edu.bambace, https://www.instagram.com/edu_bambace.
 - ⚡ Fun fact: I made a significant life change at 28 by moving from Argentina to Italy and delving into the world of programming.
