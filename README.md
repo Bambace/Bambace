@@ -26,15 +26,17 @@ I am passionate about technical challenges and continuous improvement. **Fun fac
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" />
 <br><br>
 
-**🗄️ Database & Legacy Systems:**<br>
+**🗄️ Database & BaaS (Backend as a Service):**<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="45" title="Supabase" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60" title="AS400 (IBM)" style="margin-bottom:10px; margin-left:10px; margin-right:10px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" width="45" title="DBeaver" />
 <br><br>
 
-**☁️ DevOps & Tools:**<br>
+**☁️ DevOps, Cloud & Tools:**<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" title="Microsoft Azure" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="45" title="Vercel" style="background-color: white; border-radius: 50%; padding: 5px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" title="GitHub" style="background-color: white; border-radius: 50%;" />
 
@@ -42,15 +44,15 @@ I am passionate about technical challenges and continuous improvement. **Fun fac
 
 ### 🚀 What I'm currently working on
 - 💼 Working as a software developer, applying my skills to enterprise-level projects.
-- 🔧 Integrating modern web technologies (Angular/React/C#) with robust legacy systems (AS400) and automating CI/CD deployment pipelines using **Azure**.
+- 🔧 Integrating modern web technologies (Angular/React/C#) with robust legacy systems (AS400) and automating CI/CD deployment pipelines using **Azure** and **Vercel**.
 - 🌱 Continuously exploring new architectures, design patterns, and best coding practices.
 
 ---
 
 ### 🌍 Languages
 - **Spanish:** Native
-- **English:** Professional Working Proficiency
-- **Italian:** Professional / Conversational
+- **Italian:** Upper-Intermediate / Advanced (B2/C1)
+- **English:** Upper-Intermediate (B2)
 
 ---
 
