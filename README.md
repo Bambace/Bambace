@@ -10,34 +10,31 @@ I am passionate about technical challenges and continuous improvement. **Fun fac
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="left">
-  
-  **💻 Frontend:**<br>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <br><br>
+**💻 Frontend:**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="45" title="Angular" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap" />
+<br><br>
 
-  **⚙️ Backend:**<br>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <br><br>
+**⚙️ Backend:**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" title="C#" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" title="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" />
+<br><br>
 
-  **🗄️ Database & Legacy Systems:**<br>
-  <img src="https://img.shields.io/badge/AS400-0066CC?style=for-the-badge&logo=ibm&logoColor=white" alt="AS400" />
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
-  <br><br>
+**🗄️ Database & Legacy Systems:**<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60" title="AS400 (IBM)" style="margin-bottom:10px" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" width="45" title="DBeaver" />
+<br><br>
 
-  **☁️ DevOps & Tools:**<br>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  
-</div>
+**☁️ DevOps & Tools:**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" title="Microsoft Azure" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" title="GitHub" />
 
 ---
 
@@ -67,7 +64,9 @@ I'm always open to chatting about tech, collaboration opportunities, or new proj
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bambace&show_icons=true&theme=radium&hide_border=true&count_private=true" alt="Bambace's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bambace&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  
+[![Bambace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bambace&show_icons=true&theme=radium&hide_border=true&count_private=true)](https://github.com/Bambace)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bambace&layout=compact&theme=radium&hide_border=true)](https://github.com/Bambace)
+
 </div>
