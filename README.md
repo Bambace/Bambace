@@ -63,14 +63,5 @@ I'm always open to chatting about tech, collaboration opportunities, or new proj
 - 💼 **LinkedIn:** [eduardo-gabriel-bambace](https://www.linkedin.com/in/eduardo-gabriel-bambace-18335a184)
 - 🌐 **Portfolio:** [bambace.github.io](https://bambace.github.io/)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-[![Bambace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bambace&show_icons=true&theme=radium&hide_border=true&count_private=true)](https://github.com/Bambace)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bambace&layout=compact&theme=radium&hide_border=true)](https://github.com/Bambace)
 
 </div>
