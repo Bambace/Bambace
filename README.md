@@ -17,6 +17,7 @@ I am passionate about technical challenges and continuous improvement. **Fun fac
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" title="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" title="CSS3" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS" />
 <br><br>
 
 **⚙️ Backend:**<br>
@@ -26,15 +27,16 @@ I am passionate about technical challenges and continuous improvement. **Fun fac
 <br><br>
 
 **🗄️ Database & Legacy Systems:**<br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60" title="AS400 (IBM)" style="margin-bottom:10px" />
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60" title="AS400 (IBM)" style="margin-bottom:10px; margin-left:10px; margin-right:10px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" width="45" title="DBeaver" />
 <br><br>
 
 **☁️ DevOps & Tools:**<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" title="Microsoft Azure" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" title="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" title="GitHub" style="background-color: white; border-radius: 50%;" />
 
 ---
 
